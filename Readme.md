@@ -336,28 +336,3 @@ This guide will walk you through the process of hosting your complete MERN stack
 
 inside backend
 1.create a folder config 2. inside it create a file config.env 3. write this code inside it
-PORT = 3000
-
-# DB_LINK ="mongodb+srv://<username>:<password>@<cluster-url>/<database-name>?retryWrites=true&w=majority"
-
-DB_LINK = "mongodb+srv://sandeep:dangi@cluster1.9zzu7sn.mongodb.net/"
-NODE_ENV = production
-JWT_SECRET = product123
-JWT_EXPIRE = 5d
-COOKIE_EXPIRE = 5
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=465
-SMTP_SERVICE = gmail
-SMTP_MAIL = sandeepdangi966@gmail.com
-SMTP_PASSWORD = <Email id password>
-SMTP_PASS = twtj ziuz vtjr gara
-
-CLOUDINARY_NAME = dp6cij7hp
-API_KEY = 651449932329211
-API_SECRET = l8WrBYzHGQpeC8PUCuBb2dIiOz8
-CLOUDINARY_URL=cloudinary://651449932329211:l8WrBYzHGQpeC8PUCuBb2dIiOz8@dp6cij7hp
-
-FRONTEND_URL = http://localhost:3000
-
-STRIPE_API_KEY ="pk_test_51PDu06SFvD2miQf2a2baBnmCeL4jFoQXyUTQWYMng3hNXdFqVYICbsAsFqpvQ7nm6UvjLoIzacU9QLHOL4lagdNM00flLiNtoU"
-STRIPE_SECRET_KEY ="sk_test_51PDu06SFvD2miQf2FPVI0THEPzbCb5tU3zi7omDuNdY4kFuxvd484cnGrytcTKXS9QEvdTuLnTB0GtlsZFzojurv008sKU7dXJ"
